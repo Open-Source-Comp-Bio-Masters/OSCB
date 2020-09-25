@@ -23,6 +23,4 @@ This portion of learning cannot be overstated. Finding a group of people who sha
    * Help other grow as Computational Biologist
 3. All of the [Discord Community Guidelines](https://discord.com/guidelines)
 
-<iframe src="https://discord.com/widget?id=759131475253133312&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 **Note one Cirriculum and Development: Right now there's only a lowly master's student working on this project, he is still learning himself and doesn't claim to know everything about computational biology. This leads to the understanding that there will be mistakes early on and maybe those mistakes will lead better computational biologist to join in and build this cirriculum to a solid, accurate, place for anyone to learn computational biology.**

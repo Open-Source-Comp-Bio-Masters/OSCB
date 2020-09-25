@@ -10,6 +10,16 @@ One could look at Computational Biology as an applied data science where the dom
 At first courses will consist mostly of links to resources where one can learn the topics along the path for either no or low cost. Over time, we will work to provide free materials in each repository, Jupyter Notebooks, that cover a select topic and will contain supplimental homeworks that consists of problem sets related to the lectures, and projects. All projects will focus on showcasing what you'll learned over the course (there could be multiple per course) in a unique way (No one will have the same work as you). Here we will leverage open data and other open resources. We also look to integrate best practices everywhere possible. This will be most evident in our lessions and in the code itself, where we plan to use the most updated practices for building and maintaining quality code bases. At first all examples will be in Python, the reasoning for this is simple: python is widely used, it supports great open sources packages for everything we need to learn the basic skills, and it's the language the sole developer of Open Source Computational Biology Master's knows. We will of course be using Git and GitHub for version control of our work. This will serve as a good way to get your GitHub some activity as well as teach you the basics about version control systems.
 
 ## Communication & Building Community
-This portion of learning cannot be overstated. Finding a group of people who shares your passion for Computational Biology will be hard if you are not also in a program so we here at Open Source Comp Bio Master's want to provide a way for people to find their community. 
+This portion of learning cannot be overstated. Finding a group of people who shares your passion for Computational Biology will be hard if you are not also in a university program, so we here at Open Source Comp Bio Master's want to provide a way for people to find their community. This will be facilitated by a discord server with a general channel, a channel for each course, and possibily more for job/collaboration posting as we go along. 
+
+### Community rules:
+
+1. As a Computational Biologist you should have a Life-Long learning attitude for yourself and others. With that in mind, there will be no place for the putting down of other learner in any way on this Discord server.
+2. The Server is for discussing the cirriculum and Computational Biology related materials. Please refrain from posting material that won't do the following:
+  * Help others through the cirriculum
+  * Grow the cirriculum in a meaningful way
+  * Point others to resources that can suppliment the cirriculum
+  * Help other grow as Computational Biologist
+3. All of the [Discord Community Guidelines](https://discord.com/guidelines)
 
 **Note one Circulum and Development: Right now there's only a lowly master's student working on this project, he is still learning himself and doesn't claim to know everything about computational biology. This leads to the understanding that there will be mistakes early on and maybe those mistakes will lead better computational biologist to join in and build this curriculum to a solid, accurate, place for anyone to learn computational biology.**

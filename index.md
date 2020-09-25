@@ -9,7 +9,7 @@ One could look at Computational Biology as an applied data science where the dom
 ## Courses & Course Structure
 At first courses will consist mostly of links to resources where one can learn the topics along the path for either no or low cost. Over time, we will work to provide free materials in each repository, Jupyter Notebooks, that cover a select topic and will contain supplimental homeworks that consists of problem sets related to the lectures, and projects. All projects will focus on showcasing what you'll learned over the course (there could be multiple per course) in a unique way (No one will have the same work as you). The program is divided into four phases According to the diagram below.
 
-![Phase Diagram](https://github.com/Open-Source-Comp-Bio-Masters/CourseHome/blob/gh-pages/OSCB%20Timeline.png)
+<img src = https://github.com/Open-Source-Comp-Bio-Masters/CourseHome/blob/gh-pages/OSCB%20Timeline.png)>
 
 Here we will leverage open data and other open resources. We also look to integrate best practices everywhere possible. This will be most evident in our lessions and in the code itself, where we plan to use the most updated practices for building and maintaining quality code bases. At first all examples will be in Python, the reasoning for this is simple: python is widely used, it supports great open sources packages for everything we need to learn the basic skills, and it's the language the sole developer of Open Source Computational Biology Master's knows. We will of course be using Git and GitHub for version control of our work. This will serve as a good way to get your GitHub some activity as well as teach you the basics about version control systems.
 

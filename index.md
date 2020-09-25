@@ -14,12 +14,13 @@ This portion of learning cannot be overstated. Finding a group of people who sha
 
 ### Community rules:
 
-1. As a Computational Biologist you should have a Life-Long learning attitude for yourself and others. With that in mind, there will be no place for the putting down of other learner in any way on this Discord server.
+1. As a Computational Biologist you should have a Life-Long learning attitude for yourself and others. With that in mind, there will be no place for the putting down of other learner in any way on this Discord server. That means refraining from statements like, "You don't know that?", "That's simple it's ... ", I know that seems nuanced, but any new learner can tell you even qualifiers like this make you feel small for not knowing. Boasting yourself also fits under that category, please be considerate of others. 
+2. Constructive critizism is great, always give it when you can, and looks something like this, "Hey, that's great you're thinking about that problem in that way, you could also try this way!", "Though you didn't get the right answer here, you made an error I found, that error is this, and you can find more on that topic here! Keep trying!".
 2. The Server is for discussing the cirriculum and Computational Biology related materials. Please refrain from posting material that won't do the following:
-  * Help others through the cirriculum
-  * Grow the cirriculum in a meaningful way
-  * Point others to resources that can suppliment the cirriculum
-  * Help other grow as Computational Biologist
+   * Help others through the cirriculum
+   * Grow the cirriculum in a meaningful way
+   * Point others to resources that can suppliment the cirriculum
+   * Help other grow as Computational Biologist
 3. All of the [Discord Community Guidelines](https://discord.com/guidelines)
 
-**Note one Circulum and Development: Right now there's only a lowly master's student working on this project, he is still learning himself and doesn't claim to know everything about computational biology. This leads to the understanding that there will be mistakes early on and maybe those mistakes will lead better computational biologist to join in and build this curriculum to a solid, accurate, place for anyone to learn computational biology.**
+**Note one Cirriculum and Development: Right now there's only a lowly master's student working on this project, he is still learning himself and doesn't claim to know everything about computational biology. This leads to the understanding that there will be mistakes early on and maybe those mistakes will lead better computational biologist to join in and build this curriculum to a solid, accurate, place for anyone to learn computational biology.**

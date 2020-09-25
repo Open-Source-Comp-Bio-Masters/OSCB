@@ -9,11 +9,11 @@ One could look at Computational Biology as an applied data science where the dom
 ## Courses & Course Structure
 At first courses will consist mostly of links to resources where one can learn the topics along the path for either no or low cost. Over time, we will work to provide free materials in each repository, Jupyter Notebooks, that cover a select topic and will contain supplimental homeworks that consists of problem sets related to the lectures, and projects. All projects will focus on showcasing what you'll learned over the course (there could be multiple per course) in a unique way (No one will have the same work as you). The program is divided into four phases According to the diagram below.
 
-<img src="https://github.com/Open-Source-Comp-Bio-Masters/CourseHome/blob/gh-pages/OSCB%20Timeline.png">
+![Timeline](https://github.com/Open-Source-Comp-Bio-Masters/CourseHome/blob/gh-pages/OSCB%20Timeline.png")
 
 With the phases in mind we can see the various available paths one might take to follow their interests. At each level you gain more specialized skills in one area of computational biology.
 
-<img src="https://github.com/Open-Source-Comp-Bio-Masters/CourseHome/blob/gh-pages/OSCB%20General%20Area%20Roadmap.png">
+![Roadmap]("https://github.com/Open-Source-Comp-Bio-Masters/CourseHome/blob/gh-pages/OSCB%20General%20Area%20Roadmap.png")
 
 Here we will leverage open data and other open resources. We also look to integrate best practices everywhere possible. This will be most evident in our lessions and in the code itself, where we plan to use the most updated practices for building and maintaining quality code bases. At first all examples will be in Python, the reasoning for this is simple: python is widely used, it supports great open sources packages for everything we need to learn the basic skills, and it's the language the sole developer of Open Source Computational Biology Master's knows. We will of course be using Git and GitHub for version control of our work. This will serve as a good way to get your GitHub some activity as well as teach you the basics about version control systems.
 
@@ -22,7 +22,7 @@ This portion of learning cannot be overstated. Finding a group of people who sha
 
 ### Community rules:
 
-1. As a Computational Biologist you should have a Life-Long learning attitude for yourself and others. With that in mind, there will be no place for the putting down of other learner in any way on this Discord server. That means refraining from statements like, "You don't know that?", "That's simple it's ... ", I know that seems nuanced, but any new learner can tell you even qualifiers like this make you feel small for not knowing. Boasting yourself also fits under that category, please be considerate of others. 
+1. As a Computational Biologist you should have a Life-Long learning attitude for yourself and others. With that in mind, there will be no place for the putting down of other learner in any way on this Discord server. That means refraining from statements like, "You don't know that?", "That's simple it's...", I know that seems nuanced, but any new learner can tell you even qualifiers like this make you feel small for not knowing. Boasting yourself also fits under that category, please be considerate of others. 
 2. Constructive criticism is great, always give it when you can, and looks something like this, "Hey, that's great you're thinking about that problem in that way, you could also try this way!", "Though you didn't get the right answer here, you made an error I found, that error is this, and you can find more on that topic here! Keep trying!".
 2. The Server is for discussing the cirriculum and Computational Biology related materials. Please refrain from posting material that won't do the following:
    * Help others through the cirriculum

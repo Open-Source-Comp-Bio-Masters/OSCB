@@ -1,5 +1,7 @@
 ## [Foundations](/foundations.md) [Exploration](/exploration.md) [Basic Area Skills](/basicskills.md) [Advanced Area Skills](/advancedareaskills.md) [Datasets](/datasets.md) [Resources](/resources.md)
 
+## [Home  •](/index.md) [Foundations   •](/foundations.md) [Exploration  •](/exploration.md)  [Advanced Area Skills   •](/advancedareaskills.md) [Datasets   •](/datasets.md) [Resources](/resources.md)
+
 # Phase III — Basic SKills Development
 
 ## Introduction

@@ -5,18 +5,17 @@
 ## Introduction
 
 ## Areas
-
-## Cell and Systems Modeling
-
-
-## Computational Structural Biology
+### Cell and Systems Modeling
 
 
-## Computational Omic Analysis (Bioinformatics)
+### Computational Structural Biology
 
 
-## Bioimage Informatics
+### Computational Omic Analysis (Bioinformatics)
 
 
-## Environmental & Ecological Informatics
+### Bioimage Informatics
+
+
+### Environmental & Ecological Informatics
 

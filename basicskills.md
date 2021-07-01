@@ -1,6 +1,6 @@
 ## [Home  •](/index.md) [Foundations   •](/foundations.md) [Exploration  •](/exploration.md)  [Advanced Area Skills   •](/advancedareaskills.md) [Datasets   •](/datasets.md) [Resources](/resources.md)
 
-# Phase III — Basic SKills Development
+# Phase III — Basic Skills Development
 
 ## Introduction
 

@@ -13,7 +13,7 @@ At first courses will consist mostly of links to resources where one can learn t
 
 With the phases in mind we can see the various available paths one might take to follow their interests. At each level you gain more specialized skills in one area of computational biology.
 
-![Roadmap](/OSCBGeneralAreaRoadmap.jpg)
+![Roadmap](/OSCBGeneralAreaRoadmap.jpeg)
 
 Here we will leverage open data and other open resources. We also look to integrate best practices everywhere possible. This will be most evident in our lessions and in the code itself, where we plan to use the most updated practices for building and maintaining quality code bases. At first all examples will be in Python, the reasoning for this is simple: python is widely used, it supports great open sources packages for everything we need to learn the basic skills, and it's the language the sole developer of Open Source Computational Biology Master's knows. We will of course be using Git and GitHub for version control of our work. This will serve as a good way to get your GitHub some activity as well as teach you the basics about version control systems.
 

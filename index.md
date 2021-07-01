@@ -1,4 +1,5 @@
 # The Open Source Computational Biology Master's
+created and maintained by [Dillon Gavlock](https://dillongavlock.dev/)
 
 ## [Foundations  •](/foundations.md) [Exploration  •](/exploration.md) [Basic Area Skills   •](/basicskills.md) [Advanced Area Skills   •](/advancedareaskills.md) [Datasets   •](/datasets.md) [Resources](/resources.md)
 

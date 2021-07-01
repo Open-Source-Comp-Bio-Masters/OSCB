@@ -36,4 +36,4 @@ This portion of learning cannot be overstated. Finding a group of people who sha
 [Check out the Server Here](https://discord.gg/ZAYWuSg)
 
 
-**Note one Cirriculum and Development: Right now there's only a single admin working on this project, he is still learning himself and doesn't claim to know everything about computational biology. This leads to the understanding that there will be mistakes early on and maybe those mistakes will lead better computational biologist joining in and building this cirriculum to a solid, accurate, place for anyone to learn computational biology.**
+**Note on Cirriculum and Development: Right now there's only a single admin working on this project, he is still learning himself and doesn't claim to know everything about computational biology. This leads to the understanding that there will be mistakes early on and maybe those mistakes will lead better computational biologist joining in and building this cirriculum to a solid, accurate, place for anyone to learn computational biology.**

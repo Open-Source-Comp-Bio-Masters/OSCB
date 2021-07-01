@@ -1,4 +1,4 @@
-## [Foundations](/foundations.md) [Exploration](/exploration.md) [Basic Area Skills](/basicskills.md) [Advanced Area Skills](/advancedareaskills.md) [Datasets](/datasets.md) [Resources](/resources.md)
+## [Home  •](/index.md) [Foundations   •](/foundations.md) [Basic Area Skills  •](/basicskills.md)  [Advanced Area Skills   •](/advancedareaskills.md) [Datasets   •](/datasets.md) [Resources](/resources.md)
 
 # Phase II — Exploration
 

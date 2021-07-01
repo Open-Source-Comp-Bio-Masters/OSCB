@@ -1,6 +1,6 @@
 # The Open Source Computational Biology Master's
 
-## [Foundations](/foundations.md)
+## [Foundations](/foundations.md) [Exploration](/exploration.md) [Basic Area Skills](/foundations.md) [Advanced Area Skills](/foundations.md) [Datasets](/foundations.md) [Resources](/foundations.md)
 
 ## Welcome
 Welcome to Open Source Comp Bio Masters! This repo is meant to be a guide to all those who wish to gain skills in Computational Biology so they can follow their passions in biology, math, and computer science. The idea behind the Open Source Comp Bio Masters is not original, it came after exploring GitHub's repositories for Data Science libraries and stumbling upon the [Open Source Data Science Master's](http://datasciencemasters.org/) repository maintained by [Clare Corthell](https://github.com/clarecorthell). If you're just interested in Data Science alone I couldn't recommend the Open Source Data Science Master's more. It's excellently curated with wonderful categories from the fundamentals of Data Science to Advanced concepts. This repository will in fact share some of the foundations of the OSDSM cirriculum as many of the mathematical and computational foundations are the same.

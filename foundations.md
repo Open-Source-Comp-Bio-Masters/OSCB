@@ -10,8 +10,10 @@
 [Khan Academy – Digital Information](https://www.khanacademy.org/computing/ap-computer-science-principles/x2d2f703b37b450a3:digital-information)<br>
 To get started you should understand the basics about digital information. Khan Academy has put together a nice module on this topic with exercises; completing this will give you
 a firm grasps on how computers process information, which is very useful background knowledge when you doing computational biology for various reason that will be apparent in future courses (working with massive datasets, parallelization, and more). <br>
+<br>
 [w3 Schools – Python](https://www.w3schools.com/python/default.asp)<br>
-This tutorial put together by w3 is the perfect learn-by-doing guide for learning python. You will move through simple concepts all the way through to advance concepts like error catching, package building, etc. The **minimum** course recommendation is to complete all succesive modules until "Classes/Objects", then move to Python Modules (Numpy, Pandas, SciPy tutorials), and finally the Matplotlib tutorial. All of these will prepare you to apply what you have learned in the next course on EdX. 
+This tutorial put together by w3 is the perfect learn-by-doing guide for learning python. You will move through simple concepts all the way through to advance concepts like error catching, package building, etc. The **minimum** course recommendation is to complete all succesive modules until "Classes/Objects", then move to Python Modules (Numpy, Pandas, SciPy tutorials), and finally the Matplotlib tutorial. All of these will prepare you to apply what you have learned in the next course on EdX. <br>
+<br>
 [UCSC – Python for Data Science](https://www.edx.org/course/python-for-data-science-2?index=product&queryID=d4cc93fac2ec7c90994da2622706b831&position=1)<br>
 
 #### Bash & Version Control (Git)

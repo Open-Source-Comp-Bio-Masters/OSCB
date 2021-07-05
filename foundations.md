@@ -4,14 +4,25 @@
 
 ## Computer Science
 ### Suggested Courses
+#### Basic Computer Science & Your First Programming Language
 [Khan Academy Digital Information](https://www.khanacademy.org/computing/ap-computer-science-principles/x2d2f703b37b450a3:digital-information)<br>
 [w3 Schools – Python](https://www.w3schools.com/python/default.asp)<br>
 [UCSC Python for Data Science](https://www.edx.org/course/python-for-data-science-2?index=product&queryID=d4cc93fac2ec7c90994da2622706b831&position=1)<br>
+#### Bash & Version Control (Git)
+[GitHub](https://docs.github.com/en/get-started/quickstart)<br>
+[Data Science at the Command Line](https://www.datascienceatthecommandline.com/2e/)<br>
+
+#### SQL
+[w3 Schools – SQL](https://www.w3schools.com/sql/default.asp) <br>
+#### Containerization
+
+
 
 ### Suggested Books
 
 ### Additional Resources
-
+[Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)<br>
+[GitHub CLI Manual](https://cli.github.com/manual/)<br>
 
 ## Math
 ### Suggested Courses

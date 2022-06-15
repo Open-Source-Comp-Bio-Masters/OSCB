@@ -54,3 +54,4 @@ This portion of learning cannot be overstated. Finding a group of people who sha
 **Dr. Larry Vernetti** </br>
 **Dr. Albert Gough** </br>
 **Dr. Mark Schurdak** </br>
+**Dr. Tim Lezon** </br>

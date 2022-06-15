@@ -39,18 +39,18 @@ This portion of learning cannot be overstated. Finding a group of people who sha
 
 **Note on Cirriculum and Development: Right now there's only a single admin working on this project, he is still learning himself and doesn't claim to know everything about computational biology. This leads to the understanding that there will be mistakes early on and maybe those mistakes will lead better computational biologist joining in and building this cirriculum to a solid, accurate, place for anyone to learn computational biology. Also, the admin acknowledges that his training at the University of Pittsburgh has played a major role in how the courses are organized and what materials to use. With that said, he would like to thank the University of Pittsburgh Compuational & Systems Biology department for their role in training him as well as for the inspiration for creating this website. The major areas stem from the PhD. program breakdown and much of the material recommendations are from those used in the courses there, though we try to stay with materials that are freely available and open-source.**
 
-**Big Thanks List **
+**Big Thanks List**
 
-**Dr. Ivet Bahar **
-**Dr. David Koes **
-**Dr. Jim Faeder **
-**Dr. Robin Lee **
-**Dr. Takis Benos **
-**Dr. Carlos Camacho **
-**Dr. Chakra Chennubhotla **
-**Dr. Maria Chikina **
-**Dr. Lans Taylor **
-**Dr. Mark Miedel **
-**Dr. Larry Vernetti **
-**Dr. Albert Gough **
-**Dr. Mark Schurdak **
+**Dr. Ivet Bahar** </br>
+**Dr. David Koes** </br>
+**Dr. Jim Faeder**
+**Dr. Robin Lee**
+**Dr. Takis Benos**
+**Dr. Carlos Camacho**
+**Dr. Chakra Chennubhotla**
+**Dr. Maria Chikina**
+**Dr. Lans Taylor**
+**Dr. Mark Miedel**
+**Dr. Larry Vernetti**
+**Dr. Albert Gough**
+**Dr. Mark Schurdak**

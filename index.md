@@ -43,14 +43,14 @@ This portion of learning cannot be overstated. Finding a group of people who sha
 
 **Dr. Ivet Bahar** </br>
 **Dr. David Koes** </br>
-**Dr. Jim Faeder**
-**Dr. Robin Lee**
-**Dr. Takis Benos**
-**Dr. Carlos Camacho**
-**Dr. Chakra Chennubhotla**
-**Dr. Maria Chikina**
-**Dr. Lans Taylor**
-**Dr. Mark Miedel**
-**Dr. Larry Vernetti**
-**Dr. Albert Gough**
-**Dr. Mark Schurdak**
+**Dr. Jim Faeder** </br>
+**Dr. Robin Lee** </br>
+**Dr. Takis Benos** </br>
+**Dr. Carlos Camacho** </br>
+**Dr. Chakra Chennubhotla** </br>
+**Dr. Maria Chikina** </br>
+**Dr. Lans Taylor** </br>
+**Dr. Mark Miedel** </br>
+**Dr. Larry Vernetti** </br>
+**Dr. Albert Gough** </br>
+**Dr. Mark Schurdak** </br>

@@ -41,8 +41,8 @@ This portion of learning cannot be overstated. Finding a group of people who sha
 
 **Big Thanks List**
 
-**Dr. Ivet Bahar** </br>
-**Dr. David Koes** </br>
+**Dr. Ivet Bahar** <br>
+**Dr. David Koes** <br>
 **Dr. Jim Faeder** </br>
 **Dr. Robin Lee** </br>
 **Dr. Takis Benos** </br>
